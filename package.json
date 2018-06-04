@@ -1,0 +1,26 @@
+{
+	"name": "complainhar",
+	"version": "0.0.1",
+	"description": "Exports markdown files from har files.",
+	"main": "lib/har-to-md.js",
+	"bin": {
+		"complainhar": "bin/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/linkme/complainhar.git"
+	},
+	"contributors": [
+		{
+			"name": "Giovanni Lela",
+			"email": "giovanni.lela@gmail.com"
+		}
+	],
+	"preferGlobal": true,
+	"license": "MIT",
+	"keywords": [
+		"md",
+		"har",
+		"convert"
+	]
+}
